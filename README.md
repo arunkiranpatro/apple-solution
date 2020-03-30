@@ -4,10 +4,10 @@ A Dating recommendation application
 
 Steps to run the application
 
-cd client
-npm install
-cd server
-npm install
+<li>cd client</li>
+<li>npm install</li>
+<li>cd server</li>
+<li>npm install</li>
 
 To run this application you need to run backend and frontend servers.
 
@@ -19,7 +19,7 @@ Go to client folder and run command "npm start"
 
 Test Users are created
 <li>UserA@test.com / test</li>
-UserB@test.com / test
-UserC@test.com / test
-UserD@test.com / test
-UserE@test.com / test
+<li>UserB@test.com / test</li>
+<li>UserC@test.com / test</li>
+<li>UserD@test.com / test</li>
+<li>UserE@test.com / test</li>
