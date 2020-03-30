@@ -9,4 +9,10 @@ npm install
 cd server
 npm install
 
-After installation of node modules, stay in "server" folder and run command "npm run dev" it will up 2 servers
+To run this application you need to run backend and frontend servers.
+
+To run backend server
+Go to server folder and run command "npm start"
+
+To run frontend react server
+Go to client folder and run command "npm start"
