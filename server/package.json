@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "server",
   "version": "1.0.0",
-  "description": "a social network for developers",
+  "description": "a dating application",
   "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
@@ -10,16 +10,8 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arunkiranpatro/learnMERN.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/arunkiranpatro/learnMERN/issues"
-  },
-  "homepage": "https://github.com/arunkiranpatro/learnMERN#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
