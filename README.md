@@ -16,3 +16,10 @@ Go to server folder and run command "npm start"
 
 To run frontend react server
 Go to client folder and run command "npm start"
+
+Test Users are created
+UserA@test.com/test
+UserB@test.com/test
+UserC@test.com/test
+UserD@test.com/test
+UserE@test.com/test
